@@ -1,0 +1,6 @@
+.expo-shared
+.idea
+node_modules
+.expo
+build
+coverage
